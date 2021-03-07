@@ -1,4 +1,4 @@
-# Pintos Project of CS330 in KAIST
+# Pintos Project 
 
 [![Build Status](https://travis-ci.org/hangpark/pintos.svg?branch=develop)](https://travis-ci.org/hangpark/pintos) [![Test Coverage](http://showbadge.hangpark.com/hangpark/pintos/?branch=develop&key=grade)](https://github.com/hangpark/pintos)
 
